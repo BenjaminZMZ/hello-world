@@ -1,3 +1,1 @@
-# hello-world
-Hi!World!
-      By BenjaminZMZ.
+hello-world
